@@ -25,10 +25,10 @@ const Footer = () => {
               </a>
             ))}
           </div>
-          <span>
-            Made With <icon>❤</icon> by{" "}
+          {/* <span>
+            Boilerplate Template Created by{" "}
             <a href="https://www.chetanverma.com/">Chetan Verma</a>
-          </span>
+          </span> */}
         </div>
       </div>
     </div>
